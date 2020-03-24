@@ -1,0 +1,5 @@
+ro.product.wt.boardid=S98507BB1
+ro.miui.support_fingerprint=true
+ro.build.display.wtid.miui=SW_S98507BB1_V024_M13_XM_C3D_USR_MP
+ro.build.display.wtid.ato=SW_S98507BB1_V039_M13_XM_C3D_USRD_ATO_2
+ro.product.subproject=S98507BB1

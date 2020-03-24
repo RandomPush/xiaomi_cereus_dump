@@ -1,0 +1,8 @@
+service mlipay-1-0 /vendor/bin/mlipayd
+    class hal
+    user system
+    group system
+    disabled
+
+on property:soter.teei.init=INIT_OK
+    start mlipay-1-0

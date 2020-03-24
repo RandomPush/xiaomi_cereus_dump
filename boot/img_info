@@ -1,0 +1,12 @@
+kernel=kernel
+ramdisk=ramdisk
+page_size=2048
+kernel_size=8636337
+ramdisk_size=1043764
+base_addr=0x40000000
+kernel_offset=0x00008000
+ramdisk_offset=0x15000000
+tags_offset=0x14000000
+cmd_line='bootopt=64S3,32S1,32S1 buildvariant=userdebug'
+board="SWS98507AA12"
+format=gzip
